@@ -1,0 +1,51 @@
+body {
+    margin: 20px;
+    font-weight: 600;
+    font-family: 'Courier New', Courier, monospace;
+    background: #15151F;
+}
+
+legend {
+    text-align: left;
+    color: whitesmoke;
+    padding: 0 8px;
+    background: 15151F;
+}
+
+.avatar {
+    width: 150px;
+}
+
+.btn-ctn {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.img-btn{
+  width: 16px;     
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    color: whitesmoke;
+}
+
+/*
+Stretch goals:
+Find other ways you can personalize 
+the design of your business card, e.g.:
+- change the border(s)
+- add border radius
+- shuffle the layout
+- shadows        🤯
+- hover effects  🤯🤯
+- animations     🤯🤯🤯
+*/
+
