@@ -3,6 +3,8 @@ body {
     font-weight: 600;
     font-family: 'Courier New', Courier, monospace;
     background: #15151F;
+    color: whitesmoke;
+
 }
 
 legend {
@@ -34,18 +36,4 @@ legend {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    color: whitesmoke;
 }
-
-/*
-Stretch goals:
-Find other ways you can personalize 
-the design of your business card, e.g.:
-- change the border(s)
-- add border radius
-- shuffle the layout
-- shadows        🤯
-- hover effects  🤯🤯
-- animations     🤯🤯🤯
-*/
-
