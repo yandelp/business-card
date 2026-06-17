@@ -5,6 +5,7 @@ body {
     background: #15151F;
     color: whitesmoke;
     display: grid;
+    place-items: center;
 }
 
 legend {
