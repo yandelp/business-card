@@ -21,8 +21,7 @@ legend {
 
 .btn-ctn {
   display: flex;
-  justify-content: center;
-  gap: 16px;
+  justify-content: space-evenly;
 }
 
 .img-btn{
