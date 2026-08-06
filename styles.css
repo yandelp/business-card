@@ -17,6 +17,15 @@ legend {
 
 .avatar {
     width: 150px;
+    height: 200px;
+    background-image: url('images/image1.jpg');
+    background-size: cover;
+}
+
+.avatar:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    background-image: url('images/image.jpg');
 }
 
 .btn-ctn {
